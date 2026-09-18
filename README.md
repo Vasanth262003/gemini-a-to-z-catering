@@ -1,4 +1,4 @@
-# Gingeraz Catering Website
+# Gemini Catering Website
 
 Static single-page catering website.
 
